@@ -1,0 +1,13 @@
+.custom-slider .carousel-inner .carousel-item{
+    height: 500px;
+}
+.custom-slider .carousel-inner .carousel-item img{
+    height: 100%;
+    object-fit: cover;
+}
+.recipes-section .col-4 .card img{
+    height: 238px;
+}
+.order-form {
+    background: #f7f3f4;
+}
