@@ -1,3 +1,9 @@
+header .header-wrap {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content: space-between;
+}
 .custom-slider .carousel-inner .carousel-item{
     height: 500px;
 }
